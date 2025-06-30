@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Егор 
+<h1 align="center">Добро пожаловать на мою страничку. Меня зовут Егор. 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px; font-weight: normal;">

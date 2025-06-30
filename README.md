@@ -1,9 +1,9 @@
-<h1 align="center">Привет, я <a href="https://github.com/SHegor74" target="_blank">Егор</a> 
+<h1 align="center">Привет, я Егор 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px; font-weight: normal;">
 Продуктовый аналитик с бэкграундом в продажах. Глубокая экспертиза в данных и понимание бизнес-процессов помогают находить точки роста и повышать прибыльность.<br>
-Превращаю данные в решения, а решения — в прибыль.
+Превращаю данные в решения, а решения — в результаты для бизнеса.
 </p>
 
 </h3><!--

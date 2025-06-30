@@ -15,12 +15,24 @@
 </p>
 
 </div>
-<div align="center">
+<!-- <div align="center">
   <a href="https://wa.me/79823032503" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp">
   </a>
   <a href="https://t.me/SHegor74" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact on Telegram">
+  </a>
+</div> -->
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://wa.me/79823032503" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp">
+  </a>
+  <a href="https://t.me/SHegor74" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact on Telegram">
+  </a>
+  <a href="https://www.linkedin.com/in/egor-naberezhnov-965497179/" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
 </div>
 

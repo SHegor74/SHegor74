@@ -19,6 +19,7 @@
   </a>
 
 </div>
+
 <ul style="text-align: center; list-style-position: inside; padding: 0; max-width: 600px; margin: 0 auto;">
 <li>Занимаюсь аналитикой данных 📊👨🏼‍💻📈🚀💰</li>
 <li>Готов к сотрудничеству 🤝</li>

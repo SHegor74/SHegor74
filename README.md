@@ -3,8 +3,7 @@
 <h3 align="center">Product Analyst</h3>
 <h3 style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px;">
 Продуктовый аналитик с бэкграундом в продажах. Экспертиза в данных и понимание бизнес-процессов помогают находить точки роста и повышать прибыльность. 
-<h3 style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px;">
-Превращаю аналитику в действия, а действия - в результаты для бизнеса.
+<h3 style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px;">Превращаю аналитику в действия, а действия - в результаты для бизнеса.
 </h3><!--
 **SHegor74/SHegor74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,6 +6,17 @@
 Превращаю данные в решения, а решения — в результаты для бизнеса.
 </p>
 
+<div style="text-align: center; margin: 10px 0;">
+  <a href="https://wa.me/79823032503" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp">
+  </a>
+  <a href="https://t.me/SHegor74" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact on Telegram">
+  </a>
+</div>
+
+
+
 </h3><!--
 **SHegor74/SHegor74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,9 +10,8 @@
 Превращаю данные в решения, а решения — в результаты для бизнеса.
 </p>
 
-<div style="height: 20px;"></div> <!-- Дополнительный пробел -->
-
-<div style="text-align: center; margin: 10px 0;">
+</div>
+<div align="center">
   <a href="https://wa.me/79823032503" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp">
   </a>
@@ -21,8 +20,7 @@
   </a>
 </div>
 
-<div style="height: 20px;"></div> <!-- Дополнительный пробел -->
-
+</div>
 <ul style="text-align: center; list-style-position: inside; padding: 0; max-width: 600px; margin: 0 auto;">
   <li>Занимаюсь аналитикой данных 📊👨🏼‍💻📈🚀💰</li>
   <li>Готов к сотрудничеству 🤝</li>

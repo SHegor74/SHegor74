@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="400" height="250" src="[https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif](https://dribbble.com/shots/4246321-Shopperations-Dashboard-animation/attachments/4246321-Shopperations-Dashboard-animation?mode=media)"  alt="animated" />
+</p>
+
+
 <p align="center" style="font-weight: 600; font-size: 2.2em;">
   Добро пожаловать на мою страничку. Меня зовут Егор.
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>

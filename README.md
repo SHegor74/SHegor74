@@ -1,9 +1,11 @@
 <h1 align="center">Привет, я <a href="https://github.com/SHegor74" target="_blank">Егор</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Product Analyst</h3>
-<h3 style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px;">
-Продуктовый аналитик с бэкграундом в продажах. Экспертиза в данных и понимание бизнес-процессов помогают находить точки роста и повышать прибыльность.\n 
-<h3 style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px;">Превращаю аналитику в действия, а действия - в результаты для бизнеса.
+<p style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px; font-weight: normal;">
+Продуктовый аналитик с бэкграундом в продажах. Глубокая экспертиза в данных и понимание бизнес-процессов помогают находить точки роста и повышать прибыльность.<br>
+Превращаю аналитику в действия, а их — в результаты для бизнеса.
+</p>
+
 </h3><!--
 **SHegor74/SHegor74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

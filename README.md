@@ -2,10 +2,15 @@
   Добро пожаловать на мою страничку. Меня зовут Егор.
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </p>
+
+<div style="height: 20px;"></div> <!-- Дополнительный пробел -->
+
 <p style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px; font-weight: normal;">
 Продуктовый аналитик с бэкграундом в продажах. Глубокая экспертиза в данных и понимание бизнес-процессов помогают находить точки роста и повышать прибыльность.<br>
 Превращаю данные в решения, а решения — в результаты для бизнеса.
 </p>
+
+<div style="height: 20px;"></div> <!-- Дополнительный пробел -->
 
 <div style="text-align: center; margin: 10px 0;">
   <a href="https://wa.me/79823032503" target="_blank" style="margin: 0 5px;">
@@ -16,10 +21,17 @@
   </a>
 </div>
 
-* Занимаюсь аналитикой данных 📊👨🏼‍💻📈🚀💰
-* Готов к сотрудничеству 🤝
-* Мои проекты 👇: 
+<div style="height: 20px;"></div> <!-- Дополнительный пробел -->
 
+<ul style="text-align: center; list-style-position: inside; padding: 0; max-width: 600px; margin: 0 auto;">
+  <li>Занимаюсь аналитикой данных 📊👨🏼‍💻📈🚀💰</li>
+  <li>Готов к сотрудничеству 🤝</li>
+  <li>Мои проекты 👇:</li>
+
+<div style="height: 20px;"></div> <!-- Дополнительный пробел -->
+
+  
+</ul>
 
 </h3><!--
 **SHegor74/SHegor74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

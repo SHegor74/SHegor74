@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Product Analyst</h3>
 <h3 style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px;">
-Продуктовый аналитик с бэкграундом в продажах. Экспертиза в данных и понимание бизнес-процессов помогают находить точки роста и повышать прибыльность. Превращаю аналитику в действия, а их - в результаты для бизнеса.
+Продуктовый аналитик с бэкграундом в продажах. Экспертиза в данных и понимание бизнес-процессов помогают находить точки роста и повышать прибыльность. 
+Превращаю аналитику в действия, а действия - в результаты для бизнеса.
 </h3><!--
 **SHegor74/SHegor74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

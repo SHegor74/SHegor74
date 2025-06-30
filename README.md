@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact on Telegram">
   </a>
 
-<br>
+
 
 <ul style="text-align: center; list-style-position: inside; padding: 0; max-width: 600px; margin: 0 auto;">
 <li>Занимаюсь аналитикой данных 📊👨🏼‍💻📈🚀💰</li>

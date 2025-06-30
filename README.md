@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="250" src="[https://github.com/SHegor74/SHegor74/blob/main/dash1.gif)"  alt="animated" />
+  <img width="400" height="250" src="https://github.com/SHegor74/SHegor74/blob/main/dash1.gif"  alt="animated" />
 </p>
 
 

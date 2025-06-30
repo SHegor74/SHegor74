@@ -17,15 +17,15 @@
   <a href="https://t.me/SHegor74" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact on Telegram">
   </a>
+</div>
 
-<div style="height: 20px;"></div>
 
 <ul style="text-align: center; list-style-position: inside; padding: 0; max-width: 600px; margin: 0 auto;">
 <li>Занимаюсь аналитикой данных 📊👨🏼‍💻📈🚀💰</li>
 <li>Готов к сотрудничеству 🤝</li>
 <li>Мои проекты 👇:</li>
 
-<div style="height: 20px;"></div>
+</ul>
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|

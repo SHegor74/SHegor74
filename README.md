@@ -1,7 +1,7 @@
-<h1 align="center" style="font-weight: normal;">
+<p align="center" style="font-size: 24px;">
   Добро пожаловать на мою страничку. Меня зовут Егор.
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+</p>
 <p style="text-align: justify; text-justify: inter-word; margin: 0 auto; max-width: 600px; font-weight: normal;">
 Продуктовый аналитик с бэкграундом в продажах. Глубокая экспертиза в данных и понимание бизнес-процессов помогают находить точки роста и повышать прибыльность.<br>
 Превращаю данные в решения, а решения — в результаты для бизнеса.

@@ -41,7 +41,7 @@
 |[Анализ проблемных зон Маркетплейса](https://github.com/SHegor74/project_marketplace)|Оценка retention и наличия PMF. Определение и расчет ключевых продуктовых метрик продукта. Приоритезация гипотез с помощью ICE. Определение метрик, на которые повлияет реализация выбранной гипотезы.|Python(pandas, numpy, parser, matplotlib, seaborn)|
 |[Построение дашборда для отдела продаж](https://github.com/SHegor74/project_sales_dashboard)|Проведение интервью с заказчиком и выяснение потребностей.  Формирование Dashboard canvas.  Предобработка данных и формирование нужных метрик внутри DataLens. Написание документации к дашборду. Реализация и презентация дашборда.  |DataLens|
 |[RFM-анализ](https://github.com/SHegor74/RFM-analysis)|Сегментация пользователей.   Проведение RFM-анализа.   Визуализация результатов.  |Python(pandas, matplotlib.pyplot) |
-|Проект 4 E-commerce  (__[github](https://github.com/)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+|[Оптимизация SQL-запроса](https://github.com/SHegor74/Optimize-sql-query)| Для расчета метрик ARPU, ARPAU, CR и т.д., использовались подзапросы, агрегатные функции, условные выражения, джоины, группировки. |Redash(PostgreSQL)|
 |Проекты SQL  (__[github](https://github.com/)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
 
 

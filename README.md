@@ -42,7 +42,7 @@
 |[Построение дашборда для отдела продаж](https://github.com/SHegor74/project_sales_dashboard)|Проведение интервью с заказчиком и выяснение потребностей.  Формирование Dashboard canvas.  Предобработка данных и формирование нужных метрик внутри DataLens. Написание документации к дашборду. Реализация и презентация дашборда.  |DataLens|
 |[RFM-анализ](https://github.com/SHegor74/RFM-analysis)|Сегментация пользователей.   Проведение RFM-анализа.   Визуализация результатов.  |Python(pandas, matplotlib.pyplot) |
 |[Оптимизация SQL-запроса](https://github.com/SHegor74/Optimize-sql-query)| Для расчета метрик ARPU, ARPAU, CR и т.д., использовались подзапросы, агрегатные функции, условные выражения, джоины, группировки. |Redash(PostgreSQL)|
-|[A/B–тестирование с автоматизацией добавления данных](https://github.com/SHegor74/A-B-testing-with-automated-data-addition)|Расчет метрик CR, ARPU, ARPPU. A/B тесты Z-test, Манна-Уитни, бутстрап. Автоматизация добавление новых пользователей в тест. |Python(pandas, numpy, statsmodels, scipy, matplotlib, seaborn)|
+|[A/B–тестирование с автоматизацией добавления данных](https://github.com/SHegor74/A-B-testing-with-automated-data-addition)|Расчет метрик CR, ARPU, ARPPU. Формулирование гипотез. A/B тесты Z-test, Манна-Уитни, бутстрап. Формулирование выводов по результатам тестов. Автоматизация добавление новых пользователей в тест. |Python(pandas, numpy, statsmodels, scipy, matplotlib, seaborn)|
 
 
 

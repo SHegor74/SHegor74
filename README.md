@@ -5,7 +5,6 @@
 
 <p align="center" style="font-weight: 600; font-size: 2.2em;">
   Добро пожаловать на мою страничку. Меня зовут Егор.
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </p>
 
 
